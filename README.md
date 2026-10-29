@@ -8,35 +8,34 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 I’m currently expanding my expertise in advanced full-stack architectures and native mobile development.
-- 💻 Working as a freelance full-stack developer and designer on Upwork, building custom web applications and SaaS solutions.
-- 🛠️ Operating out of a Linux (Parrot OS) environment for software engineering and Windows for UI/UX design.
-- 🌐 Check out my portfolio website: [fidelmuthomi.tech](https://fidelmuthomi.tech)
+- I’m currently expanding my expertise in advanced full-stack architectures and native mobile development.
+- Working as a freelance full-stack developer and designer on Upwork, building custom web applications and SaaS solutions.
+- Operating out of a Linux (Parrot OS) environment for software engineering and Windows for UI/UX design.
+- Check out my portfolio website: [fidelmuthomi.tech](https://fidelmuthomi.tech)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Featured Projects
+### Featured Projects
 
 - **[Netizone](https://github.com/fidel208/netizone)**
   - _SaaS Wi-Fi billing and captive portal management platform featuring automated M-Pesa STK push payments, WhatsApp/SMS receipt alerts, and comprehensive client admin dashboards._
@@ -47,19 +46,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Activity & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidel208&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidel208&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+- **Primary Focus:** Building web applications, mobile applications and SaaS products.
+- **Current Stack:** Node.js, Express, PostgreSQL, React, and Vite.
+- **Fun Fact:** Operating out of a Linux environment for backend development and Windows for UI/UX design.
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
-- 🌐 Portfolio: [fidelmuthomi.tech](https://fidelmuthomi.tech)
-- 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~01b3621c1712f1d7fc)
+- Portfolio: [fidelmuthomi.tech](https://fidelmuthomi.tech)
+- Upwork: [Hire Me](https://www.upwork.com/freelancers/~01b3621c1712f1d7fc)
