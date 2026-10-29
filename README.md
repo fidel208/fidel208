@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kiruja Fidel Muthomi 👋</h1>
+<h3 align="center">Junior Web Developer & UI/UX Designer bridging the gap between robust backend logic and clean visual design.</h3>
 
-<!--
-**fidel208/fidel208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fidel208&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Building_Scalable_Apps-brightgreen?style=flat-square" alt="Status" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 I’m currently expanding my expertise in advanced full-stack architectures and native mobile development.
+- 💻 Working as a freelance full-stack developer and designer on Upwork, building custom web applications and SaaS solutions.
+- 🛠️ Operating out of a Linux (Parrot OS) environment for software engineering and Windows for UI/UX design.
+- 🌐 Check out my portfolio website: [fidelmuthomi.tech](https://fidelmuthomi.tech)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+- **[Netizone](https://github.com/fidel208/netizone)**
+  - _SaaS Wi-Fi billing and captive portal management platform featuring automated M-Pesa STK push payments, WhatsApp/SMS receipt alerts, and comprehensive client admin dashboards._
+- **[Growssify](https://github.com/fidel208/growssify)**
+  - _A business financial tracking web application for calculating revenue, profit, and expenses with interactive charts._
+- **[Mobilix](https://github.com/fidel208/mobilix)**
+  - _A transport, vehicle booking, and car hire platform designed for streamlined local transit, private transfers, and rental management._
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fidel208&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidel208&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+- 🌐 Portfolio: [fidelmuthomi.tech](https://fidelmuthomi.tech)
+- 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~01b3621c1712f1d7fc)
