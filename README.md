@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kiruja Fidel Muthomi 👋</h1>
-<h3 align="center">Junior Web Developer & UI/UX Designer bridging the gap between robust backend logic and clean visual design.</h3>
+<h3 align="center">Junior Web Developer & UI/UX Designer.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fidel208&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -21,7 +21,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
